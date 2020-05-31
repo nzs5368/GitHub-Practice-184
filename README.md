@@ -54,6 +54,7 @@
 | Heyi Xu           | Section 101       | heyamheyi       |  <https://heyamheyi.github.io/Stat-184-practice/>  |
 | Randy Silverman   | Section 101       | ras6262         |  <https://ras6262.github.io/Stat184-Demo/> |
 | Shruti Mahadevan  | Section 101       | shrutipsu       |  <https://shrutipsu.github.io/Github-Practice/> |
+| Rohan Pamidimukkla| Section 101       | prohan21        |  <https://prohan21.github.io/Git184-1/> |
 | Akarawee Chavanarorkrat| Section 101  | Akarawee-Chavanarorkrat|  <https://akarawee-chavanarorkrat.github.io/GitHub-Practice-184/> | 
 | Aishwarya Penmetca| Section 101       | Aish-u          |  <https://aish-u.github.io/GitHub-Practice/>   |
 | Matthew Brady      | Section 101      | MatvinBra       |  <https://matvinbra.github.io/GitHub-Demo/> |
