@@ -55,6 +55,9 @@
 | Randy Silverman   | Section 101       | ras6262         |  <https://ras6262.github.io/Stat184-Demo/> |
 | Shruti Mahadevan  | Section 101       | shrutipsu       |  <https://shrutipsu.github.io/Github-Practice/> |
 | Aishwarya Penmetca| Section 101       | Aish-u          |  <https://aish-u.github.io/GitHub-Practice/>   |
+| Matthew Brady      | Section 101      | MatvinBra       |  <https://matvinbra.github.io/GitHub-Demo/> |
+| Ethan Wright      | Section 101       | ethanwright3    |  <https://ethanwright3.github.io/Stat-HW-1/> |
+| Ji Zhang          | Section 101       | jkz5262         |  <https://jkz5262.github.io/GitHub-Practice/>  |
 <br>
 
 # Integration of RStudio with Git
