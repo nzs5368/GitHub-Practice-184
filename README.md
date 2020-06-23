@@ -60,6 +60,7 @@
 | Matthew Brady      | Section 101      | MatvinBra       |  <https://matvinbra.github.io/GitHub-Demo/> |
 | Ethan Wright      | Section 101       | ethanwright3    |  <https://ethanwright3.github.io/Stat-HW-1/> |
 | Ji Zhang          | Section 101       | jkz5262         |  <https://jkz5262.github.io/GitHub-Practice/>  |
+| Dragana Juric     | Section 101       | dragana-j       |  <https://dragana-j.github.io/GitHubPractice/> |
 <br>
 
 # Integration of RStudio with Git
